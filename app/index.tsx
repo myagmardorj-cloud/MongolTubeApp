@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 import { WebView } from 'react-native-webview';
 
-const API = 'http://127.0.0.1:5000';
+const API = 'https://mongolstore-backend.onrender.com'
 const { width } = Dimensions.get('window');
 
 const COLORS = {
